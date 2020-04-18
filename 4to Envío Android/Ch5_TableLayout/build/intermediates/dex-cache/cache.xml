@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProyectosAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="dc94610a52926b38438d58ae5a875cdbfaaac321">
+        <dex dex="C:\Users\ProyectosAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15b1705eb19aa5d4667eb91f9677d92152cb3354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProyectosAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="cd9808165a7c641baa2d991ee1bc571a3819d860">
+        <dex dex="C:\Users\ProyectosAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cbf29edf91e50a618d2711c47deb25de4fafb039\classes.dex" />
+    </item>
+
+</items>

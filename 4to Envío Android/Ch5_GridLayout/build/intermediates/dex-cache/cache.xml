@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProyectosAndroid\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_GridLayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="ec7dddc0eb53f3c5534e256f424c156cdac17ee5">
+        <dex dex="C:\Users\ProyectosAndroid\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_GridLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d3276c5bbb7d6b364b7d44f29c38d7a1054e58b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProyectosAndroid\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_GridLayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="8c02c747f1f9891e3d011e84cdca7791b5a4a0d4">
+        <dex dex="C:\Users\ProyectosAndroid\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_GridLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e315472ef600200e78055b796607a759567ea52c\classes.dex" />
+    </item>
+
+</items>

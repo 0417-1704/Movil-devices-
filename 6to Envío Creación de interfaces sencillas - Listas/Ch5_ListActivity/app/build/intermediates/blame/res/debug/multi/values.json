@@ -1,0 +1,194 @@
+[
+    {
+        "outputFile": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 49,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 68,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 68,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endLine": 5,
+                    "endColumn": 8,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 121
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 49,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 68,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 68,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endLine": 5,
+                    "endColumn": 8,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 121
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\ProyectosAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 49,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 68,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 68,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endLine": 5,
+                    "endColumn": 8,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroidStudio\\Capitulo 5\\Lista\\Ch5_ListActivity\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 121
+                    }
+                }
+            }
+        ]
+    }
+]

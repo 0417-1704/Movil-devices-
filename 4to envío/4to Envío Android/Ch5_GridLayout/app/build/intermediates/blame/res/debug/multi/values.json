@@ -1,0 +1,210 @@
+[
+    {
+        "outputFile": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endLine": 15,
+                        "endColumn": 19,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 40,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 40,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 40,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 40,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 53,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\ProyectosAndroid\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endLine": 15,
+                        "endColumn": 19,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 40,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 40,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 40,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 40,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 53,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_GridLayout\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    }
+]

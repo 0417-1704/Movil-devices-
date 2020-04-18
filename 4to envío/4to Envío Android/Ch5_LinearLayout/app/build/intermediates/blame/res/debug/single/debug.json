@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout_weight_not_same.xml.flat",
+        "source": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\src\\main\\res\\layout\\weight_not_same.xml"
+    },
+    {
+        "merged": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout_weight.xml.flat",
+        "source": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\src\\main\\res\\layout\\weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout_gravity.xml.flat",
+        "source": "C:\\Users\\GustavoMarquez\\AndroidStudioProjects\\ProyectoAndroidStudio\\Capitulo 5\\Layout\\Ch5_LinearLayout\\app\\src\\main\\res\\layout\\gravity.xml"
+    }
+]

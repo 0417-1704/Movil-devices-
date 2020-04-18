@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListActivity</string>
+    <string name="hello">Hello World, ListActivityActivity!</string>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+</style>
+</resources>

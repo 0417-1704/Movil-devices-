@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TableLayout</string>
+    <string name="line1_column1">Línea 1 - Columna 1</string>
+    <string name="line1_column2">Línea 1 - Columna 2</string>
+    <string name="line2_column1">Línea 2 - Columna 1</string>
+    <string name="line2_column2">Línea 2 - Columna 2</string>
+
+</resources>

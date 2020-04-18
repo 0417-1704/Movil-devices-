@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string name="hello">Hello World, CustomAdapterActivity!</string>
+    <string name="list_desc">Número de la versión : %s</string>
+    <string name="list_title">Nombre de la versión : %s</string>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+</style>
+</resources>

@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.eni.android.tablelayout"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:7:5-20:19
+12        android:debuggable="true"
+13        android:icon="@drawable/ic_launcher"
+13-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:8:9-45
+14        android:label="@string/app_name"
+14-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:10:9-41
+15        android:testOnly="true"
+16        android:theme="@style/AppTheme" >
+16-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:9:9-40
+17        <activity
+17-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:11:9-19:20
+18            android:name="com.eni.android.tablelayout.TableLayoutActivity"
+18-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:12:13-48
+19            android:label="@string/app_name" >
+19-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:13:13-45
+20            <intent-filter>
+20-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:14:13-18:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:15:17-69
+21-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:15:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:17:17-77
+23-->C:\Users\GustavoMarquez\AndroidStudioProjects\ProyectoAndroidStudio\Capitulo 5\Layout\Ch5_TableLayout\app\src\main\AndroidManifest.xml:17:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>
